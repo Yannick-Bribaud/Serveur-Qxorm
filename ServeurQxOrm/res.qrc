@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>play_96px.png</file>
+        <file>stop_96px.png</file>
+        <file>shutdown_96px.png</file>
+        <file>shutdown_32px.png</file>
+        <file>close_window_96px.png</file>
+        <file>close_window48_48px.png</file>
+        <file>update_left_rotation_96px.png</file>
+        <file>Online_1.png</file>
+        <file>minimize_window_48px.png</file>
+    </qresource>
+</RCC>
